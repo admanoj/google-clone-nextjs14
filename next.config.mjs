@@ -2,6 +2,6 @@
 
 export default {
   images: {
-    domains: ["upload.wikimedia.org"],
+    domains: ["upload.wikimedia.org", "random-word-api"],
   },
 };
