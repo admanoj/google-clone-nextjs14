@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Parser from "html-react-parser";
-import PaginationButtons from "./PaginationButtons";
+import PaginationButtons from "@/components/paginationButtons/page";
 
 export default function WebSearchResults({ results }) {
   return (
